@@ -1,9 +1,9 @@
-.kaufman__triangel {
+.kaufman__triangle {
   position: absolute;
   right: -210px;
   background-image: url(../../../images/triangle.svg);
   background-size: cover;
-  z-index: -1;
+  z-index: 1;
   height: 877px;
   width: 877px;
   top: 0px;
