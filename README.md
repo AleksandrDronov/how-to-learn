@@ -1,4 +1,4 @@
-# Проект: Научиться-учиться
+# Научиться-учиться
 
 [ссылка](https://aleksandrdronov.github.io/how-to-learn/)
 
