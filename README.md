@@ -1,4 +1,4 @@
-# Научиться-учиться
+# Научиться-учиться. Лендинг.
 
 [ссылка](https://aleksandrdronov.github.io/how-to-learn/)
 
